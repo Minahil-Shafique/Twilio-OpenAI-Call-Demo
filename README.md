@@ -17,11 +17,11 @@ This project demonstrates a simple implementation of Twilio outbound calling, ca
 ## 📁 Installation
 1. Clone the repository:
 ```bash
-   git clone <repository-url>
+   git clone https://github.com/Minahil-Shafique/Twilio-OpenAI-Call-Demo
 ```
 2. Navigate to the project directory:
 ```bash
-   cd <project-directory>
+   cd Twilio-OpenAI-Call-Demo
 ```
 3. Create and activate a virtual environment:
 ```bash
